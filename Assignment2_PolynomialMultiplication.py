@@ -5,7 +5,7 @@ You can also start from scratch.
 '''
 
 # Threshold to switch from long multiplication to Karatasuba
-THRESHOLD = 500
+THRESHOLD = 100
 
 
 def main():
